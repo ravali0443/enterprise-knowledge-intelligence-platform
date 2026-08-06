@@ -36,6 +36,9 @@ class LocalFolderConnector(KnowledgeSourceConnector):
         return documents
 
 
+    
+
+
 
 
     
